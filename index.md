@@ -21,3 +21,8 @@ cout<<"Hello, world!";
 Haha!  
 123  
 wow! What is king?  
+
+##### insert a list  
+- [x] List syntax is required
+- [x] This item is complete
+- [√] This item is not complete
